@@ -1,4 +1,4 @@
-# guia-de-instalacion-bettercap
+# Guia De Instalacion Bettercap
 esta es una guia de installacion de bettercap en linux en mi caso es linux mint y en este perfil de github dejare mas guias de instalacion ya que estoy creando mi version de linux mint para pentesting
 
 
@@ -31,11 +31,13 @@ sudo make install
 Una vez instalado, puedes ejecutar Bettercap con:
 
 sudo bettercap
+
 🛠️ Troubleshooting
 
 Verifica que Go esté correctamente instalado:
 
 go version
+
 Asegúrate de que $GOPATH/bin esté incluido en tu variable PATH
 Si hay errores en la compilación, revisa que todas las dependencias estén instaladas correctamente
 Ejecuta los comandos con permisos adecuados (sudo)
